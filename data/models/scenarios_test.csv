@@ -1,0 +1,9 @@
+nom,Competition,Capacite,prix_billet_moyen,temperature,isDerby,is_important_match,is_top_team_home,est_weekend,affluence_predite,taux_occupation_predit
+Match classique Botola Pro - Semaine,Botola Pro,45000,50,22,0,0,0,0,34278.59975938939,76.17466613197642
+Derby Botola Pro - Weekend,Botola Pro,67000,150,25,1,1,1,1,-49959.42446535235,0.0
+Ligue des Champions - Match important,Champions League,60000,200,18,0,1,1,0,7932.0249117913045,13.220041519652174
+Petit stade - Match normal,Botola Pro,15000,30,28,0,0,0,1,40252.63365169272,100.0
+Finale CAN 2025,CAN,68700,700,16,1,1,1,1,-106684.59231782367,0.0
+Match hiver - Froid,Botola Pro,45000,50,8,0,0,1,1,24880.134703670363,55.289188230378585
+Choc au sommet - Grand stade,Botola Pro,67000,120,23,0,1,1,1,26708.312695483783,39.863153276841466
+Dernier match de saison,Botola Pro,45000,60,30,0,1,1,1,33753.75268385469,75.00833929745487

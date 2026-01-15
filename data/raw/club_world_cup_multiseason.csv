@@ -1,0 +1,20 @@
+﻿Competition,saison,Stade,Ville,Capacite,Equipe_Home,Equipe_Away,Score,isDerby,PhaseImportance,is_important_match,is_top_team_home,affluence_moyenne,date_Match,heure_match,prix_billet_moyen,temperature,Recette_Moyenne
+FIFA Club World Cup,2022,Prince Moulay Abdellah Stadium,Rabat,53000,Wydad Casablanca,Al-Hilal,1–1 (a.e.t.),False,2,True,False,43891,2023-02-04,15:30,80,11.1,3511280
+FIFA Club World Cup,2022,Prince Moulay Abdellah Stadium,Rabat,53000,Al Ahly,Real Madrid,1–4,False,4,True,True,43508,2023-02-08,20:00,80,13.0,3480640
+FIFA Club World Cup,2022,Prince Moulay Abdellah Stadium,Rabat,53000,Real Madrid,Al-Hilal,5–3,False,5,True,True,44439,2023-02-11,20:00,80,15.1,3555120
+FIFA Club World Cup,2014,Prince Moulay Abdellah Stadium,Rabat,52000,Moghreb Tétouan,Auckland City,0–0 (a.e.t.),False,1,False,False,35247,2014-12-10,19:30,60,12.4,2114820
+FIFA Club World Cup,2014,Prince Moulay Abdellah Stadium,Rabat,52000,ES Sétif,Auckland City,0–1,False,3,True,False,22153,2014-12-13,16:00,60,14.8,1329180
+FIFA Club World Cup,2014,Prince Moulay Abdellah Stadium,Rabat,52000,Cruz Azul,Western Sydney Wanderers,3–1 (a.e.t.),False,3,True,False,22153,2014-12-13,19:30,60,14.8,1329180
+FIFA Club World Cup,2014,Stade de Marrakech,Marrakesh,41245,Cruz Azul,Real Madrid,0–4,False,4,True,False,34862,2014-12-16,19:30,60,9.8,2091720
+FIFA Club World Cup,2014,Stade de Marrakech,Marrakesh,41245,San Lorenzo,Auckland City,2–1 (a.e.t.),False,4,True,True,18458,2014-12-17,19:30,60,11.9,1107480
+FIFA Club World Cup,2014,Stade de Marrakech,Marrakesh,41245,Western Sydney Wanderers,ES Sétif,2–2,False,1,False,False,18458,2014-12-17,16:30,60,11.9,1107480
+FIFA Club World Cup,2014,Stade de Marrakech,Marrakesh,41245,Cruz Azul,Auckland City,1–1,False,1,True,False,38345,2014-12-20,16:30,60,10.9,2300700
+FIFA Club World Cup,2014,Stade de Marrakech,Marrakesh,41245,Real Madrid,San Lorenzo,2–0,False,5,True,True,38345,2014-12-20,19:30,60,10.9,2300700
+FIFA Club World Cup,2013,Stade Adrar,Agadir,45480,Raja Casablanca,Auckland City,2–1,False,1,False,False,34875,2013-12-11,19:30,60,17.9,2092500
+FIFA Club World Cup,2013,Stade Adrar,Agadir,45480,Guangzhou Evergrande,Al Ahly,2–0,False,3,True,False,34579,2013-12-14,16:00,60,17.0,2074740
+FIFA Club World Cup,2013,Stade Adrar,Agadir,45480,Raja Casablanca,Monterrey,2–1 (a.e.t.),False,3,True,False,34579,2013-12-14,19:30,60,17.0,2074740
+FIFA Club World Cup,2013,Stade Adrar,Agadir,45480,Guangzhou Evergrande,Bayern Munich,0–3,False,4,True,False,27311,2013-12-17,19:30,60,16.0,1638660
+FIFA Club World Cup,2013,Stade de Marrakech,Marrakesh,41356,Raja Casablanca,Atlético Mineiro,3–1,False,4,True,False,35219,2013-12-18,19:30,60,10.7,2113140
+FIFA Club World Cup,2013,Stade de Marrakech,Marrakesh,41356,Al Ahly,Monterrey,1–5,False,1,True,True,35219,2013-12-18,16:30,60,10.7,2113140
+FIFA Club World Cup,2013,Stade de Marrakech,Marrakesh,41356,Guangzhou Evergrande,Atlético Mineiro,2–3,False,1,True,False,37774,2013-12-21,16:30,60,7.6,2266440
+FIFA Club World Cup,2013,Stade de Marrakech,Marrakesh,41356,Bayern Munich,Raja Casablanca,2–0,False,5,True,True,37774,2013-12-21,19:30,60,7.6,2266440

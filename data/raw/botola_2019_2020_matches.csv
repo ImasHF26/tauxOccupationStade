@@ -1,0 +1,241 @@
+﻿Competition,saison,Stade,Ville,Capacite,Equipe_Home,Equipe_Away,Score,isDerby,PhaseImportance,is_important_match,is_top_team_home,affluence_moyenne,date_Match,heure_match,prix_billet_moyen,temperature,Recette_Moyenne
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,1,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,1,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,1,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,1,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,1,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,1,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,1,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,1,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,2,False,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,2,False,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,2,False,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,2,False,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,2,False,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,2,False,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,2,False,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,2,False,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Club Athletic Youssoufia Berrechid,Difaâ El Jadida,1:0,False,3,True,False,20000,2020-10-10,16:00,60,20.3,1200000
+Botola Pro,2019/2020,Stade Municipale de Oued Zem,Oued Zem,8000,Rapide Oued Zem,Ittihad Tanger,5:3,False,3,True,False,5063,2020-10-10,18:00,60,23.7,303780
+Botola Pro,2019/2020,Stade Municipal de Berkane,Berkane,15000,Renaissance Zemamra,Raja Beni Mellal,1:1,False,3,True,False,6438,2020-10-10,20:00,60,20.4,386280
+Botola Pro,2019/2020,Stade Saniat-Rmel,Tetouan,15000,Moghreb Atlético Tétouan,Olympique Khouribga,2:1,False,3,True,False,8750,2020-10-10,20:00,60,20.1,525000
+Botola Pro,2019/2020,Stade Mohamed V,Casablanca,67000,Raja Club Athletic,AS FAR Rabat,2:1,False,3,True,True,20000,2020-10-11,20:00,60,20.8,1200000
+Botola Pro,2019/2020,Complexe Sportif du Phosphate,Khouribga,15000,Olympique Safi,Renaissance de Berkane,0:1,False,3,True,False,6438,2020-10-11,20:00,60,23.3,386280
+Botola Pro,2019/2020,Stade Adrar,Agadir,45480,Hassania d'Agadir,Mouloudia d'Oujda,0:1,False,3,True,False,6714,2020-10-11,20:00,60,27.2,402840
+Botola Pro,2019/2020,Stade Prince Moulay Hassan,Rabat,22000,FUS Rabat,Wydad Casablanca,1:2,False,3,True,True,2400,2020-10-11,20:00,60,20.2,144000

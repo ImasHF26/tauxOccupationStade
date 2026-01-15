@@ -1,0 +1,42 @@
+
+RAPPORT DE NETTOYAGE DES DONNÉES
+Date : 2026-01-12 22:33:13
+================================================================================
+
+1. DONNÉES INITIALES
+   - Lignes : 363
+   - Colonnes : 19
+
+2. DONNÉES NETTOYÉES
+   - Lignes : 363
+   - Colonnes : 30
+   - Lignes supprimées : 0
+
+3. TRAITEMENT BOTOLA PRO
+   - Lignes concernées : 240
+   - Affluence désagrégée avec coefficients multiplicateurs
+   - Variance introduite : ±5% aléatoire
+
+4. VARIABLES CRÉÉES
+   - taux_occupation (%)
+   - Variables temporelles (annee, mois, jour_semaine, est_weekend)
+   - categorie_stade (Petit/Moyen/Grand)
+   - derby_top_team (interaction)
+   - Marqueurs outliers
+
+5. VALEURS MANQUANTES TRAITÉES
+   - Température : imputée par médiane
+   - Prix billet : imputé par médiane par compétition
+   - Recette : calculée si manquante
+
+6. OUTLIERS DÉTECTÉS
+   - Affluence : 8 outliers
+   - Taux occupation : 0 outliers
+   - Marqués mais non supprimés
+
+7. STATISTIQUES CLÉS
+   - Affluence moyenne : 15025 ± 11974
+   - Taux occupation moyen : 47.3%
+   - Capacité moyenne : 35406
+
+Fichier de sortie : ../data/processed/data_cleaned.csv

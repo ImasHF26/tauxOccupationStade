@@ -1,0 +1,126 @@
+
+RAPPORT DE DÉPLOIEMENT DU MODÈLE
+=================================
+
+1. MODÈLE SAUVEGARDÉ
+   - Type : Approche Hybride
+   - Nombre de features : 12
+   - R² sur données complètes : 0.7797
+   - Date de création : 2026-01-13 09:59:55
+
+2. FICHIERS GÉNÉRÉS
+   - models/model_affluence.pkl : Modèle principal
+   - models/features_list.pkl : Liste des features
+   - models/model_stats.pkl : Statistiques de normalisation
+   - models/model_metadata.pkl : Métadonnées du modèle
+   - scripts/Prediction.py : Script de prédiction réutilisable
+   - data/models/scenarios_test.csv : Scénarios de test avec prédictions
+   - virtualisation/models/scenarios_predictions.png : Visualisations
+
+3. FEATURES UTILISÉES
+      - Capacite
+   - prix_billet_moyen
+   - temperature
+   - isDerby
+   - is_important_match
+   - is_top_team_home
+   - est_weekend
+   - mois
+   - jour_semaine
+   - derby_top_team
+   - PC1
+   - PC2
+
+4. SCÉNARIOS DE TEST (8 scénarios)
+
+   Scénario 1: Match classique Botola Pro - Semaine
+   - Capacité : 45,000 places
+   - Affluence prédite : 34,279 spectateurs
+   - Taux occupation : 76.2%
+   
+   Scénario 2: Derby Botola Pro - Weekend
+   - Capacité : 67,000 places
+   - Affluence prédite : -49,959 spectateurs
+   - Taux occupation : 0.0%
+   
+   Scénario 3: Ligue des Champions - Match important
+   - Capacité : 60,000 places
+   - Affluence prédite : 7,932 spectateurs
+   - Taux occupation : 13.2%
+   
+   Scénario 4: Petit stade - Match normal
+   - Capacité : 15,000 places
+   - Affluence prédite : 40,253 spectateurs
+   - Taux occupation : 100.0%
+   
+   Scénario 5: Finale CAN 2025
+   - Capacité : 68,700 places
+   - Affluence prédite : -106,685 spectateurs
+   - Taux occupation : 0.0%
+   
+   Scénario 6: Match hiver - Froid
+   - Capacité : 45,000 places
+   - Affluence prédite : 24,880 spectateurs
+   - Taux occupation : 55.3%
+   
+   Scénario 7: Choc au sommet - Grand stade
+   - Capacité : 67,000 places
+   - Affluence prédite : 26,708 spectateurs
+   - Taux occupation : 39.9%
+   
+   Scénario 8: Dernier match de saison
+   - Capacité : 45,000 places
+   - Affluence prédite : 33,754 spectateurs
+   - Taux occupation : 75.0%
+   
+
+5. UTILISATION DU MODÈLE
+
+   Option 1 : Utiliser le script Python
+   -------------------------------------
+   python scripts/Prediction.py
+
+   Ou dans votre code Python :
+
+   from scripts.Prediction import predire_affluence
+
+   resultat = predire_affluence(
+       capacite=68700,
+       prix_billet=300,
+       temperature=17,
+       is_derby=1,
+       is_important=1,
+       is_top_team=1,
+       is_weekend=0,
+       mois=01,
+       jour_semaine=3
+   )
+
+   print(f"Affluence : {resultat['affluence_predite']}")
+   print(f"Taux : {resultat['taux_occupation']}%")
+
+   Option 2 : Charger directement le modèle
+   -----------------------------------------
+   import pickle
+
+   with open('../models/model_affluence.pkl', 'rb') as f:
+       model = pickle.load(f)
+
+   # Préparer vos données au bon format
+   # Faire la prédiction
+   prediction = model.predict(X)
+
+6. RECOMMANDATIONS
+
+   - Réentraîner le modèle périodiquement avec de nouvelles données
+   - Valider les prédictions sur des matchs réels
+   - Monitorer les performances en production
+   - Ajuster les features si nécessaire
+
+7. LIMITATIONS
+
+   - Le modèle suppose une relation linéaire entre variables
+   - Précision réduite pour les cas extrêmes (très petits/grands stades)
+   - Ne prend pas en compte les événements exceptionnels imprévus
+
+Date de génération : 2026-01-13 09:59:57

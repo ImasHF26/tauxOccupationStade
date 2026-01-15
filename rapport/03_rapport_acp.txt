@@ -1,0 +1,60 @@
+
+RAPPORT D'ANALYSE EN COMPOSANTES PRINCIPALES (ACP)
+===================================================
+
+1. CONFIGURATION
+   - Nombre de variables : 11
+   - Nombre d'observations : 363
+   - Méthode de standardisation : Centrage-réduction (StandardScaler)
+
+2. VARIANCE EXPLIQUÉE
+   - PC1 : 33.30%
+   - PC2 : 20.58%
+   - PC3 : 10.98%
+   - Variance cumulée PC1+PC2 : 53.88%
+   - Variance cumulée PC1+PC2+PC3 : 64.87%
+
+3. CRITÈRES DE SÉLECTION
+   - Critère de Kaiser (λ > 1) : 4 composantes
+   - Critère des 80% : 5 composantes
+   - Recommandation : Utiliser 4 composantes
+
+4. INTERPRÉTATION PC1 (33.30%)
+   Variables principales :
+      - Recette_Moyenne : 18.8%
+   - prix_billet_moyen : 17.1%
+   - isDerby : 16.5%
+   - derby_top_team : 16.5%
+   - is_top_team_home : 8.5%
+
+5. INTERPRÉTATION PC2 (20.58%)
+   Variables principales :
+      - jour_semaine : 37.6%
+   - est_weekend : 30.1%
+   - mois : 12.8%
+   - is_top_team_home : 8.8%
+   - temperature : 2.7%
+
+6. INTERPRÉTATION PC3 (10.98%)
+   Variables principales :
+      - isDerby : 27.5%
+   - derby_top_team : 27.5%
+   - Capacite : 15.8%
+   - temperature : 9.7%
+   - mois : 9.5%
+
+7. RECOMMANDATIONS POUR LA MODÉLISATION
+   - L'ACP révèle 4 dimensions principales dans les données
+   - Les 5 premières composantes capturent 81.7% de la variance
+   - Options pour la régression :
+     a) Utiliser les variables originales (interprétabilité)
+     b) Utiliser les composantes principales (réduction dimensionnelle)
+     c) Approche hybride : variables principales de chaque PC
+
+8. FICHIERS GÉNÉRÉS
+   - data/pca/data_with_pca.csv (données + composantes)
+   - data/pca/pca_loadings.csv (corrélations variables-composantes)
+   - data/pca/pca_contributions.csv (contributions en %)
+   - Visualisations : 5 graphiques PNG
+
+Date : 2026-01-12 21:58:24

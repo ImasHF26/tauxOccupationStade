@@ -1,0 +1,364 @@
+﻿﻿Competition;saison;Stade;Ville;Capacite;Equipe_Home;Equipe_Away;Score;isDerby;PhaseImportance;is_important_match;is_top_team_home;affluence_moyenne;date_Match;heure_match;prix_billet_moyen;temperature;Recette_Moyenne;source_file
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;1;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;1;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;1;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;1;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;1;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;1;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;1;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;1;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;2;FALSE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;2;FALSE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;2;FALSE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;2;FALSE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;2;FALSE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;2;FALSE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;2;FALSE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;2;FALSE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Club Athletic Youssoufia Berrechid;Difaâ El Jadida;01:00;FALSE;3;TRUE;FALSE;20000;10/10/2020;16:00;60;20.3;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipale de Oued Zem;Oued Zem;8000;Rapide Oued Zem;Ittihad Tanger;05:03;FALSE;3;TRUE;FALSE;5063;10/10/2020;18:00;60;23.7;303780;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Municipal de Berkane;Berkane;15000;Renaissance Zemamra;Raja Beni Mellal;01:01;FALSE;3;TRUE;FALSE;6438;10/10/2020;20:00;60;20.4;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Saniat-Rmel;Tetouan;15000;Moghreb Atlético Tétouan;Olympique Khouribga;02:01;FALSE;3;TRUE;FALSE;8750;10/10/2020;20:00;60;20.1;525000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Mohamed V;Casablanca;67000;Raja Club Athletic;AS FAR Rabat;02:01;FALSE;3;TRUE;TRUE;20000;11/10/2020;20:00;60;20.8;1200000;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Complexe Sportif du Phosphate;Khouribga;15000;Olympique Safi;Renaissance de Berkane;00:01;FALSE;3;TRUE;FALSE;6438;11/10/2020;20:00;60;23.3;386280;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Adrar;Agadir;45480;Hassania d'Agadir;Mouloudia d'Oujda;00:01;FALSE;3;TRUE;FALSE;6714;11/10/2020;20:00;60;27.2;402840;botola_2019_2020_matches.csv
+Botola Pro;2019/2020;Stade Prince Moulay Hassan;Rabat;22000;FUS Rabat;Wydad Casablanca;01:02;FALSE;3;TRUE;TRUE;2400;11/10/2020;20:00;60;20.2;144000;botola_2019_2020_matches.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Ivory Coast;Guinea-Bissau;2–0;FALSE;1;FALSE;TRUE;36858;13/01/2024;20:00;164;26.5;6044712;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Nigeria;Equatorial Guinea;1–1;FALSE;1;FALSE;TRUE;8500;14/01/2024;14:00;164;26.1;1394000;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Equatorial Guinea;Guinea-Bissau;4–2;FALSE;1;FALSE;FALSE;13888;18/01/2024;14:00;164;26.6;2277632;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Ivory Coast;Nigeria;0–1;FALSE;1;TRUE;TRUE;49517;18/01/2024;17:00;164;26.6;8120788;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Equatorial Guinea;Ivory Coast;4–0;FALSE;1;FALSE;FALSE;42550;22/01/2024;17:00;164;27.4;6978200;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Guinea-Bissau;Nigeria;0–1;FALSE;1;FALSE;FALSE;15650;22/01/2024;17:00;164;27.3;2566600;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Egypt;Mozambique;2–2;FALSE;1;FALSE;TRUE;11933;14/01/2024;17:00;164;26.3;1957012;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Ghana;Cape Verde;1–2;FALSE;1;FALSE;TRUE;11943;14/01/2024;20:00;164;26.3;1958652;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Egypt;Ghana;2–2;FALSE;1;FALSE;TRUE;20808;18/01/2024;20:00;164;26.8;3412512;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Cape Verde;Mozambique;3–0;FALSE;1;FALSE;FALSE;5794;19/01/2024;14:00;164;26.0;950216;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Mozambique;Ghana;2–2;FALSE;1;FALSE;FALSE;6000;22/01/2024;20:00;164;27.4;984000;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Cape Verde;Egypt;2–2;FALSE;1;FALSE;FALSE;15650;22/01/2024;20:00;164;27.3;2566600;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Senegal;Gambia;3–0;FALSE;1;FALSE;TRUE;7896;15/01/2024;14:00;164;27.0;1294944;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Cameroon;Guinea;1–1;FALSE;1;FALSE;TRUE;11271;15/01/2024;17:00;164;27.0;1848444;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Senegal;Cameroon;3–1;FALSE;1;TRUE;TRUE;19176;19/01/2024;17:00;164;27.5;3144864;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Guinea;Gambia;1–0;FALSE;1;TRUE;FALSE;19822;19/01/2024;20:00;164;27.5;3250808;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Guinea;Senegal;0–2;FALSE;1;FALSE;FALSE;15753;23/01/2024;17:00;164;28.5;2583492;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Gambia;Cameroon;2–3;FALSE;1;FALSE;FALSE;24172;23/01/2024;17:00;164;27.2;3964208;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Algeria;Angola;1–1;FALSE;1;FALSE;TRUE;19740;15/01/2024;20:00;164;26.5;3237360;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Burkina Faso;Mauritania;1–0;FALSE;1;FALSE;FALSE;27898;16/01/2024;14:00;164;27.2;4575272;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Algeria;Burkina Faso;2–2;FALSE;1;TRUE;TRUE;33501;20/01/2024;14:00;164;27.8;5494164;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Mauritania;Angola;2–3;FALSE;1;TRUE;FALSE;36318;20/01/2024;17:00;164;27.8;5956152;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Angola;Burkina Faso;2–0;FALSE;1;FALSE;FALSE;15753;23/01/2024;20:00;164;28.5;2583492;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Mauritania;Algeria;1–0;FALSE;1;FALSE;FALSE;28010;23/01/2024;20:00;164;27.2;4593640;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;Tunisia;Namibia;0–1;FALSE;1;FALSE;TRUE;13991;16/01/2024;17:00;164;27.0;2294524;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;Mali;South Africa;2–0;FALSE;1;TRUE;FALSE;16894;16/01/2024;20:00;164;27.0;2770616;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;Tunisia;Mali;1–1;FALSE;1;TRUE;TRUE;18130;20/01/2024;20:00;164;28.6;2973320;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;South Africa;Namibia;4–0;FALSE;1;FALSE;FALSE;9304;21/01/2024;20:00;164;27.9;1525856;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;South Africa;Tunisia;0–0;FALSE;1;FALSE;FALSE;12847;24/01/2024;17:00;164;27.1;2106908;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;Namibia;Mali;0–0;FALSE;1;FALSE;FALSE;15231;24/01/2024;17:00;164;28.1;2497884;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;Morocco;Tanzania;3–0;FALSE;1;FALSE;TRUE;15478;17/01/2024;17:00;164;27.1;2538392;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;DR Congo;Zambia;1–1;FALSE;1;FALSE;FALSE;15478;17/01/2024;20:00;164;27.1;2538392;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;Morocco;DR Congo;1–1;FALSE;1;FALSE;TRUE;13342;21/01/2024;14:00;164;27.5;2188088;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;Zambia;Tanzania;1–1;FALSE;1;FALSE;FALSE;13342;21/01/2024;17:00;164;27.5;2188088;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;Tanzania;DR Congo;0–0;FALSE;1;FALSE;FALSE;12847;24/01/2024;20:00;164;27.1;2106908;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San-Pédro;20000;Zambia;Morocco;0–1;FALSE;1;FALSE;FALSE;15231;24/01/2024;20:00;164;28.1;2497884;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Angola;Namibia;3–0;FALSE;2;FALSE;FALSE;28663;27/01/2024;17:00;164;26.7;4700732;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Nigeria;Cameroon;2–0;FALSE;2;FALSE;TRUE;22085;27/01/2024;20:00;164;27.6;3621940;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Equatorial Guinea;Guinea;0–1;FALSE;2;FALSE;FALSE;36340;28/01/2024;17:00;164;27.2;5959760;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San Pédro;20000;Egypt;DR Congo;1–1(a.e.t.);FALSE;2;FALSE;TRUE;12342;28/01/2024;20:00;164;28.0;2024088;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Cape Verde;Mauritania;1–0;FALSE;2;FALSE;FALSE;16088;29/01/2024;17:00;164;26.7;2638432;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Senegal;Ivory Coast;1–1(a.e.t.);TRUE;2;TRUE;TRUE;19948;29/01/2024;20:00;164;26.8;3271472;can2023_matches_enrichis.csv
+CAN;2023;Amadou Gon Coulibaly Stadium;Korhogo;20000;Mali;Burkina Faso;2–1;FALSE;2;TRUE;FALSE;19184;30/01/2024;17:00;164;26.5;3146176;can2023_matches_enrichis.csv
+CAN;2023;Laurent Pokou Stadium;San Pédro;20000;Morocco;South Africa;0–2;FALSE;2;TRUE;TRUE;19078;30/01/2024;20:00;164;28.1;3128792;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;Nigeria;Angola;1–0;FALSE;3;FALSE;TRUE;18757;02/02/2024;17:00;164;28.5;3076148;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;DR Congo;Guinea;3–1;FALSE;3;FALSE;FALSE;33278;02/02/2024;20:00;164;28.5;5457592;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Mali;Ivory Coast;1–2(a.e.t.);FALSE;3;TRUE;FALSE;39836;03/02/2024;17:00;164;27.9;6533104;can2023_matches_enrichis.csv
+CAN;2023;Charles Konan Banny Stadium;Yamoussoukro;20000;Cape Verde;South Africa;0–0(a.e.t.);FALSE;3;FALSE;FALSE;12162;03/02/2024;20:00;164;27.7;1994568;can2023_matches_enrichis.csv
+CAN;2023;Stade de la Paix;Bouaké;40000;Nigeria;South Africa;1–1(a.e.t.);FALSE;4;TRUE;TRUE;31227;07/02/2024;17:00;164;27.6;5121228;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Ivory Coast;DR Congo;1–0;FALSE;4;TRUE;TRUE;51020;07/02/2024;20:00;164;28.3;8367280;can2023_matches_enrichis.csv
+CAN;2023;Felix Houphouet Boigny Stadium;Abidjan;33000;South Africa;DR Congo;0–0(a.e.t.);FALSE;3;FALSE;FALSE;21975;10/02/2024;20:00;164;28.6;3603900;can2023_matches_enrichis.csv
+CAN;2023;Alassane Ouattara Stadium;Abidjan;60000;Nigeria;Ivory Coast;1–2;FALSE;5;TRUE;TRUE;57094;11/02/2024;20:00;164;28.6;9363416;can2023_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Morocco;Comoros;2–0;FALSE;1;TRUE;TRUE;60180;21/12/2025;20:00;500;13.1;30090000;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Mali;Zambia;1–1;FALSE;1;FALSE;TRUE;10124;22/12/2025;15:00;500;13.5;5062000;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Zambia;Comoros;0–0;FALSE;1;FALSE;FALSE;7829;26/12/2025;18:30;500;12.2;3914500;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Morocco;Mali;1–1;TRUE;1;TRUE;TRUE;63844;26/12/2025;21:00;500;12.5;31922000;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Zambia;Morocco;0–3;FALSE;1;TRUE;FALSE;62532;29/12/2025;20:00;500;13.0;31266000;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Comoros;Mali;0–0;FALSE;1;FALSE;FALSE;8842;29/12/2025;20:00;500;13.3;4421000;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;South Africa;Angola;2–1;FALSE;1;FALSE;TRUE;4013;22/12/2025;18:00;500;11.7;2006500;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Egypt;Zimbabwe;2–1;FALSE;1;FALSE;TRUE;28199;22/12/2025;21:00;500;16.1;14099500;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Angola;Zimbabwe;1–1;FALSE;1;FALSE;FALSE;5110;26/12/2025;13:30;500;10.3;2555000;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Egypt;South Africa;1–0;TRUE;1;TRUE;TRUE;40219;26/12/2025;16:00;500;12.7;20109500;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Angola;Egypt;0–0;FALSE;1;FALSE;FALSE;16090;29/12/2025;17:00;500;13.2;8045000;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Zimbabwe;South Africa;2–3;FALSE;1;FALSE;FALSE;9235;29/12/2025;17:00;500;11.1;4617500;can2025_matches_enrichis.csv
+CAN;2025;Fez Stadium;Fez;45000;Nigeria;Tanzania;2–1;FALSE;1;FALSE;TRUE;11444;23/12/2025;18:30;500;10.4;5722000;can2025_matches_enrichis.csv
+CAN;2025;Rabat Olympic Stadium;Rabat;21000;Tunisia;Uganda;3–1;FALSE;1;FALSE;TRUE;13387;23/12/2025;21:00;500;13.4;6693500;can2025_matches_enrichis.csv
+CAN;2025;Al Medina Stadium;Rabat;18000;Uganda;Tanzania;1–1;FALSE;1;FALSE;FALSE;10540;27/12/2025;18:30;500;12.9;5270000;can2025_matches_enrichis.csv
+CAN;2025;Fez Stadium;Fez;45000;Nigeria;Tunisia;3–2;TRUE;1;FALSE;TRUE;25544;27/12/2025;21:00;500;8.8;12772000;can2025_matches_enrichis.csv
+CAN;2025;Fez Stadium;Fez;45000;Uganda;Nigeria;1–3;FALSE;1;FALSE;FALSE;11545;30/12/2025;17:00;500;10.0;5772500;can2025_matches_enrichis.csv
+CAN;2025;Rabat Olympic Stadium;Rabat;21000;Tanzania;Tunisia;1–1;FALSE;1;FALSE;FALSE;15205;30/12/2025;17:00;500;13.0;7602500;can2025_matches_enrichis.csv
+CAN;2025;Al Medina Stadium;Rabat;18000;DR Congo;Benin;1–0;FALSE;1;FALSE;FALSE;13073;23/12/2025;13:30;500;13.4;6536500;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Senegal;Botswana;3–0;FALSE;1;FALSE;TRUE;18591;23/12/2025;16:00;500;11.4;9295500;can2025_matches_enrichis.csv
+CAN;2025;Rabat Olympic Stadium;Rabat;21000;Benin;Botswana;1–0;FALSE;1;FALSE;FALSE;7462;27/12/2025;13:30;500;12.8;3731000;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Senegal;DR Congo;1–1;FALSE;1;FALSE;TRUE;41672;27/12/2025;16:00;500;11.1;20836000;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Benin;Senegal;0–3;FALSE;1;FALSE;FALSE;26707;30/12/2025;20:00;500;11.3;13353500;can2025_matches_enrichis.csv
+CAN;2025;Al Medina Stadium;Rabat;18000;Botswana;DR Congo;0–3;FALSE;1;FALSE;FALSE;12569;30/12/2025;20:00;500;13.0;6284500;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Burkina Faso;Equatorial Guinea;2–1;FALSE;1;FALSE;FALSE;10267;24/12/2025;13:30;500;13.6;5133500;can2025_matches_enrichis.csv
+CAN;2025;Moulay Hassan Stadium;Rabat;22000;Algeria;Sudan;3–0;FALSE;1;FALSE;TRUE;16115;24/12/2025;16:00;500;13.5;8057500;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Equatorial Guinea;Sudan;0–1;FALSE;1;FALSE;FALSE;8671;28/12/2025;16:00;500;12.7;4335500;can2025_matches_enrichis.csv
+CAN;2025;Moulay Hassan Stadium;Rabat;22000;Algeria;Burkina Faso;1–0;FALSE;1;TRUE;TRUE;18522;28/12/2025;18:30;500;12.5;9261000;can2025_matches_enrichis.csv
+CAN;2025;Moulay Hassan Stadium;Rabat;22000;Equatorial Guinea;Algeria;1–3;FALSE;1;FALSE;FALSE;15187;31/12/2025;17:00;500;15.1;7593500;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Sudan;Burkina Faso;0–2;FALSE;1;FALSE;FALSE;10084;31/12/2025;17:00;500;15.2;5042000;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Ivory Coast;Mozambique;1–0;FALSE;1;FALSE;TRUE;13041;24/12/2025;18:30;500;11.7;6520500;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Cameroon;Gabon;1–0;TRUE;1;FALSE;TRUE;35200;24/12/2025;21:00;500;13.6;17600000;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Gabon;Mozambique;2–3;FALSE;1;FALSE;TRUE;9796;28/12/2025;13:30;500;14.0;4898000;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Ivory Coast;Cameroon;1–1;TRUE;1;FALSE;TRUE;35165;28/12/2025;21:00;500;10.8;17582500;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Gabon;Ivory Coast;2–3;TRUE;1;FALSE;TRUE;20833;31/12/2025;20:00;500;13.5;10416500;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Mozambique;Cameroon;1–2;FALSE;1;FALSE;FALSE;13093;31/12/2025;20:00;500;15.6;6546500;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Senegal;Sudan;3–1;FALSE;2;FALSE;TRUE;30045;03/01/2026;17:00;500;14.2;15022500;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Mali;Tunisia;1–1(a.e.t.);TRUE;2;FALSE;TRUE;41982;03/01/2026;20:00;500;15.7;20991000;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Morocco;Tanzania;1–0;FALSE;2;TRUE;TRUE;63894;04/01/2026;17:00;500;15.2;31947000;can2025_matches_enrichis.csv
+CAN;2025;Al Medina Stadium;Rabat;18000;South Africa;Cameroon;1–2;TRUE;2;FALSE;TRUE;14127;04/01/2026;20:00;500;15.3;7063500;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Egypt;Benin;3–1(a.e.t.);FALSE;2;FALSE;TRUE;20191;05/01/2026;17:00;500;15.5;10095500;can2025_matches_enrichis.csv
+CAN;2025;Fez Stadium;Fez;45000;Nigeria;Mozambique;4–0;FALSE;2;FALSE;TRUE;14593;05/01/2026;20:00;500;11.7;7296500;can2025_matches_enrichis.csv
+CAN;2025;Moulay Hassan Stadium;Rabat;22000;Algeria;DR Congo;1–0(a.e.t.);FALSE;2;TRUE;TRUE;18837;06/01/2026;17:00;500;11.7;9418500;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Ivory Coast;Burkina Faso;3–0;FALSE;2;FALSE;TRUE;24019;06/01/2026;20:00;500;9.2;12009500;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Mali;Senegal;0–1;TRUE;3;FALSE;TRUE;32385;09/01/2026;17:00;500;12.9;16192500;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Cameroon;Morocco;0–2;TRUE;3;TRUE;TRUE;64178;09/01/2026;20:00;500;12.2;32089000;can2025_matches_enrichis.csv
+CAN;2025;Marrakesh Stadium;Marrakesh;45240;Algeria;Nigeria;0–2;TRUE;3;FALSE;TRUE;32452;10/01/2026;17:00;500;10.1;16226000;can2025_matches_enrichis.csv
+CAN;2025;Adrar Stadium;Agadir;45480;Egypt;Ivory Coast;3–2;TRUE;3;FALSE;TRUE;31213;10/01/2026;20:00;500;13.0;15606500;can2025_matches_enrichis.csv
+CAN;2025;Tangier Grand Stadium;Tangier;75600;Senegal;Egypt;SF1;TRUE;4;TRUE;TRUE;0;14/01/2026;18:00;500;;0;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Nigeria;Morocco;SF2;FALSE;4;TRUE;TRUE;0;14/01/2026;21:00;500;;0;can2025_matches_enrichis.csv
+CAN;2025;Mohammed V Stadium;Casablanca;67000;Loser SF1;Loser SF2;v;FALSE;3;FALSE;FALSE;0;17/01/2026;17:00;500;;0;can2025_matches_enrichis.csv
+CAN;2025;Prince Moulay Abdellah Stadium;Rabat;68700;Winner SF1;Winner SF2;v;FALSE;5;TRUE;FALSE;0;18/01/2026;20:00;500;;0;can2025_matches_enrichis.csv
+FIFA Club World Cup;2022;Prince Moulay Abdellah Stadium;Rabat;53000;Wydad Casablanca;Al-Hilal;1–1 (a.e.t.);FALSE;2;TRUE;FALSE;43891;04/02/2023;15:30;80;11.1;3511280;club_world_cup_multiseason.csv
+FIFA Club World Cup;2022;Prince Moulay Abdellah Stadium;Rabat;53000;Al Ahly;Real Madrid;1–4;FALSE;4;TRUE;TRUE;43508;08/02/2023;20:00;80;13.0;3480640;club_world_cup_multiseason.csv
+FIFA Club World Cup;2022;Prince Moulay Abdellah Stadium;Rabat;53000;Real Madrid;Al-Hilal;5–3;FALSE;5;TRUE;TRUE;44439;11/02/2023;20:00;80;15.1;3555120;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Prince Moulay Abdellah Stadium;Rabat;52000;Moghreb Tétouan;Auckland City;0–0 (a.e.t.);FALSE;1;FALSE;FALSE;35247;10/12/2014;19:30;60;12.4;2114820;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Prince Moulay Abdellah Stadium;Rabat;52000;ES Sétif;Auckland City;0–1;FALSE;3;TRUE;FALSE;22153;13/12/2014;16:00;60;14.8;1329180;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Prince Moulay Abdellah Stadium;Rabat;52000;Cruz Azul;Western Sydney Wanderers;3–1 (a.e.t.);FALSE;3;TRUE;FALSE;22153;13/12/2014;19:30;60;14.8;1329180;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Stade de Marrakech;Marrakesh;41245;Cruz Azul;Real Madrid;0–4;FALSE;4;TRUE;FALSE;34862;16/12/2014;19:30;60;9.8;2091720;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Stade de Marrakech;Marrakesh;41245;San Lorenzo;Auckland City;2–1 (a.e.t.);FALSE;4;TRUE;TRUE;18458;17/12/2014;19:30;60;11.9;1107480;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Stade de Marrakech;Marrakesh;41245;Western Sydney Wanderers;ES Sétif;2–2;FALSE;1;FALSE;FALSE;18458;17/12/2014;16:30;60;11.9;1107480;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Stade de Marrakech;Marrakesh;41245;Cruz Azul;Auckland City;1–1;FALSE;1;TRUE;FALSE;38345;20/12/2014;16:30;60;10.9;2300700;club_world_cup_multiseason.csv
+FIFA Club World Cup;2014;Stade de Marrakech;Marrakesh;41245;Real Madrid;San Lorenzo;2–0;FALSE;5;TRUE;TRUE;38345;20/12/2014;19:30;60;10.9;2300700;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade Adrar;Agadir;45480;Raja Casablanca;Auckland City;2–1;FALSE;1;FALSE;FALSE;34875;11/12/2013;19:30;60;17.9;2092500;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade Adrar;Agadir;45480;Guangzhou Evergrande;Al Ahly;2–0;FALSE;3;TRUE;FALSE;34579;14/12/2013;16:00;60;17.0;2074740;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade Adrar;Agadir;45480;Raja Casablanca;Monterrey;2–1 (a.e.t.);FALSE;3;TRUE;FALSE;34579;14/12/2013;19:30;60;17.0;2074740;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade Adrar;Agadir;45480;Guangzhou Evergrande;Bayern Munich;0–3;FALSE;4;TRUE;FALSE;27311;17/12/2013;19:30;60;16.0;1638660;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade de Marrakech;Marrakesh;41356;Raja Casablanca;Atlético Mineiro;3–1;FALSE;4;TRUE;FALSE;35219;18/12/2013;19:30;60;10.7;2113140;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade de Marrakech;Marrakesh;41356;Al Ahly;Monterrey;1–5;FALSE;1;TRUE;TRUE;35219;18/12/2013;16:30;60;10.7;2113140;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade de Marrakech;Marrakesh;41356;Guangzhou Evergrande;Atlético Mineiro;2–3;FALSE;1;TRUE;FALSE;37774;21/12/2013;16:30;60;7.6;2266440;club_world_cup_multiseason.csv
+FIFA Club World Cup;2013;Stade de Marrakech;Marrakesh;41356;Bayern Munich;Raja Casablanca;2–0;FALSE;5;TRUE;TRUE;37774;21/12/2013;19:30;60;7.6;2266440;club_world_cup_multiseason.csv

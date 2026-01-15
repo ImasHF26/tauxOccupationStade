@@ -1,0 +1,37 @@
+
+INSIGHTS CLÉS DE L'ANALYSE EXPLORATOIRE
+========================================
+
+1. VARIABLE CIBLE (Affluence)
+   - Moyenne : 15025
+   - Médiane : 9796
+   - Écart-type : 11974
+   - Distribution : non-normale
+
+2. TAUX D'OCCUPATION
+   - Moyenne : 47.3%
+   - Min : 0.0%
+   - Max : 99.7%
+
+3. FACTEURS INFLUENTS
+   - Capacité du stade : corrélation = 0.603
+   - Prix du billet : corrélation = 0.278
+   - Top 3 variables corrélées : 
+     Recette_Moyenne    0.690964
+Capacite           0.602580
+taux_occupation    0.469436
+
+4. COMPÉTITIONS
+   - Plus forte affluence : FIFA Club World Cup
+   - Plus faible affluence : Botola Pro
+
+5. EFFETS BOOLÉENS
+   - Derby : impact positif
+   - Match important : impact positif
+   - Top team : impact positif
+
+6. RECOMMANDATIONS POUR LA MODÉLISATION
+   - Variables à inclure prioritairement : Capacite, isDerby, is_top_team_home
+   - Variables temporelles pertinentes : mois, jour_semaine
+   - Interactions potentielles : derby_top_team
+   - Transformation possible : log(affluence) si distribution non-normale

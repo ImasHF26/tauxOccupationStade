@@ -1,0 +1,53 @@
+﻿Competition,saison,Stade,Ville,Capacite,Equipe_Home,Equipe_Away,Score,isDerby,PhaseImportance,is_important_match,is_top_team_home,affluence_moyenne,date_Match,heure_match,prix_billet_moyen,temperature,Recette_Moyenne
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Ivory Coast,Guinea-Bissau,2–0,False,1,False,True,36858,2024-01-13,20:00,164,26.5,6044712
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Nigeria,Equatorial Guinea,1–1,False,1,False,True,8500,2024-01-14,14:00,164,26.1,1394000
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Equatorial Guinea,Guinea-Bissau,4–2,False,1,False,False,13888,2024-01-18,14:00,164,26.6,2277632
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Ivory Coast,Nigeria,0–1,False,1,True,True,49517,2024-01-18,17:00,164,26.6,8120788
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Equatorial Guinea,Ivory Coast,4–0,False,1,False,False,42550,2024-01-22,17:00,164,27.4,6978200
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Guinea-Bissau,Nigeria,0–1,False,1,False,False,15650,2024-01-22,17:00,164,27.3,2566600
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Egypt,Mozambique,2–2,False,1,False,True,11933,2024-01-14,17:00,164,26.3,1957012
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Ghana,Cape Verde,1–2,False,1,False,True,11943,2024-01-14,20:00,164,26.3,1958652
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Egypt,Ghana,2–2,False,1,False,True,20808,2024-01-18,20:00,164,26.8,3412512
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Cape Verde,Mozambique,3–0,False,1,False,False,5794,2024-01-19,14:00,164,26.0,950216
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Mozambique,Ghana,2–2,False,1,False,False,6000,2024-01-22,20:00,164,27.4,984000
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Cape Verde,Egypt,2–2,False,1,False,False,15650,2024-01-22,20:00,164,27.3,2566600
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Senegal,Gambia,3–0,False,1,False,True,7896,2024-01-15,14:00,164,27.0,1294944
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Cameroon,Guinea,1–1,False,1,False,True,11271,2024-01-15,17:00,164,27.0,1848444
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Senegal,Cameroon,3–1,False,1,True,True,19176,2024-01-19,17:00,164,27.5,3144864
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Guinea,Gambia,1–0,False,1,True,False,19822,2024-01-19,20:00,164,27.5,3250808
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Guinea,Senegal,0–2,False,1,False,False,15753,2024-01-23,17:00,164,28.5,2583492
+CAN,2023,Stade de la Paix,Bouaké,40000,Gambia,Cameroon,2–3,False,1,False,False,24172,2024-01-23,17:00,164,27.2,3964208
+CAN,2023,Stade de la Paix,Bouaké,40000,Algeria,Angola,1–1,False,1,False,True,19740,2024-01-15,20:00,164,26.5,3237360
+CAN,2023,Stade de la Paix,Bouaké,40000,Burkina Faso,Mauritania,1–0,False,1,False,False,27898,2024-01-16,14:00,164,27.2,4575272
+CAN,2023,Stade de la Paix,Bouaké,40000,Algeria,Burkina Faso,2–2,False,1,True,True,33501,2024-01-20,14:00,164,27.8,5494164
+CAN,2023,Stade de la Paix,Bouaké,40000,Mauritania,Angola,2–3,False,1,True,False,36318,2024-01-20,17:00,164,27.8,5956152
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Angola,Burkina Faso,2–0,False,1,False,False,15753,2024-01-23,20:00,164,28.5,2583492
+CAN,2023,Stade de la Paix,Bouaké,40000,Mauritania,Algeria,1–0,False,1,False,False,28010,2024-01-23,20:00,164,27.2,4593640
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,Tunisia,Namibia,0–1,False,1,False,True,13991,2024-01-16,17:00,164,27.0,2294524
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,Mali,South Africa,2–0,False,1,True,False,16894,2024-01-16,20:00,164,27.0,2770616
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,Tunisia,Mali,1–1,False,1,True,True,18130,2024-01-20,20:00,164,28.6,2973320
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,South Africa,Namibia,4–0,False,1,False,False,9304,2024-01-21,20:00,164,27.9,1525856
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,South Africa,Tunisia,0–0,False,1,False,False,12847,2024-01-24,17:00,164,27.1,2106908
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,Namibia,Mali,0–0,False,1,False,False,15231,2024-01-24,17:00,164,28.1,2497884
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,Morocco,Tanzania,3–0,False,1,False,True,15478,2024-01-17,17:00,164,27.1,2538392
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,DR Congo,Zambia,1–1,False,1,False,False,15478,2024-01-17,20:00,164,27.1,2538392
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,Morocco,DR Congo,1–1,False,1,False,True,13342,2024-01-21,14:00,164,27.5,2188088
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,Zambia,Tanzania,1–1,False,1,False,False,13342,2024-01-21,17:00,164,27.5,2188088
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,Tanzania,DR Congo,0–0,False,1,False,False,12847,2024-01-24,20:00,164,27.1,2106908
+CAN,2023,Laurent Pokou Stadium,San-Pédro,20000,Zambia,Morocco,0–1,False,1,False,False,15231,2024-01-24,20:00,164,28.1,2497884
+CAN,2023,Stade de la Paix,Bouaké,40000,Angola,Namibia,3–0,False,2,False,False,28663,2024-01-27,17:00,164,26.7,4700732
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Nigeria,Cameroon,2–0,False,2,False,True,22085,2024-01-27,20:00,164,27.6,3621940
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Equatorial Guinea,Guinea,0–1,False,2,False,False,36340,2024-01-28,17:00,164,27.2,5959760
+CAN,2023,Laurent Pokou Stadium,San Pédro,20000,Egypt,DR Congo,1–1(a.e.t.),False,2,False,True,12342,2024-01-28,20:00,164,28.0,2024088
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Cape Verde,Mauritania,1–0,False,2,False,False,16088,2024-01-29,17:00,164,26.7,2638432
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Senegal,Ivory Coast,1–1(a.e.t.),True,2,True,True,19948,2024-01-29,20:00,164,26.8,3271472
+CAN,2023,Amadou Gon Coulibaly Stadium,Korhogo,20000,Mali,Burkina Faso,2–1,False,2,True,False,19184,2024-01-30,17:00,164,26.5,3146176
+CAN,2023,Laurent Pokou Stadium,San Pédro,20000,Morocco,South Africa,0–2,False,2,True,True,19078,2024-01-30,20:00,164,28.1,3128792
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,Nigeria,Angola,1–0,False,3,False,True,18757,2024-02-02,17:00,164,28.5,3076148
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,DR Congo,Guinea,3–1,False,3,False,False,33278,2024-02-02,20:00,164,28.5,5457592
+CAN,2023,Stade de la Paix,Bouaké,40000,Mali,Ivory Coast,1–2(a.e.t.),False,3,True,False,39836,2024-02-03,17:00,164,27.9,6533104
+CAN,2023,Charles Konan Banny Stadium,Yamoussoukro,20000,Cape Verde,South Africa,0–0(a.e.t.),False,3,False,False,12162,2024-02-03,20:00,164,27.7,1994568
+CAN,2023,Stade de la Paix,Bouaké,40000,Nigeria,South Africa,1–1(a.e.t.),False,4,True,True,31227,2024-02-07,17:00,164,27.6,5121228
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Ivory Coast,DR Congo,1–0,False,4,True,True,51020,2024-02-07,20:00,164,28.3,8367280
+CAN,2023,Felix Houphouet Boigny Stadium,Abidjan,33000,South Africa,DR Congo,0–0(a.e.t.),False,3,False,False,21975,2024-02-10,20:00,164,28.6,3603900
+CAN,2023,Alassane Ouattara Stadium,Abidjan,60000,Nigeria,Ivory Coast,1–2,False,5,True,True,57094,2024-02-11,20:00,164,28.6,9363416
