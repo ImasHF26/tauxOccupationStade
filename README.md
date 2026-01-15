@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prédiction de l'Affluence dans les Stades de Football
 
 Un projet d'analyse de données et de machine learning pour prédire l'occupation des stades de football basé sur des variables contextuelles et temporelles.
@@ -542,6 +541,4 @@ Pour toute question sur le pipeline ou les résultats, consulter les rapports d�
 **État du projet** : Production ✅  
 **Python version** : 3.8+  
 **Statut de validation** : ✓ Prêt pour Git
-=======
-# tauxOccupationStade
->>>>>>> 87d6517209eb4083485e1654516c0e2b44c8303b
+
