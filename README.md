@@ -188,7 +188,7 @@ Features : PC1, PC2, PC3, PC4, PC5
 
 ---
 
-#### ⭐ Modèle 3 : Approche Hybride (12 features) - **MEILLEUR**
+####  Modèle 3 : Approche Hybride (12 features) - **MEILLEUR**
 
 ```
 Features : Variables originales (10) + PC1 + PC2
@@ -196,19 +196,13 @@ Features : Variables originales (10) + PC1 + PC2
 
 | Métrique | Train | Test |
 |----------|-------|------|
-| **R²** | 0.740 | 0.852 ⭐ |
+| **R²** | 0.740 | 0.852  |
 | **RMSE** | 5 947 | 5 027 |
 | **MAE** | 4 119 | 3 696 |
 
 **Interprétation** : Le modèle explique **85.2% de la variance** de l'affluence
 
 ---
-
-#### Analyse des résidus
-
-- Moyenne : -442 (proche de zéro ✓)
-- Normalité (Shapiro-Wilk) : p-value = 0.0279 → Non-normaux
-- Homoscédasticité : **Détectée**, hétéroscédasticité modérée
 
 #### Features les plus influentes
 
@@ -540,5 +534,5 @@ Pour toute question sur le pipeline ou les résultats, consulter les rapports d�
 **Dernier mise à jour** : 13 janvier 2026  
 **État du projet** : Production ✅  
 **Python version** : 3.8+  
-**Statut de validation** : ✓ Prêt pour Git
+**Statut de validation** : ✓ Prêt
 
